@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10436",
+      "name": "F",
+      "font_class": "F",
+      "unicode": "f003d",
+      "unicode_decimal": 983101
+    },
+    {
+      "icon_id": "15353",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "1183022",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "1403435",
+      "name": "小米",
+      "font_class": "xiaomi",
+      "unicode": "e832",
+      "unicode_decimal": 59442
+    },
+    {
+      "icon_id": "1990040",
+      "name": "时钟",
+      "font_class": "clock",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "6901607",
+      "name": "楼房",
+      "font_class": "loufang",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "8351822",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "14720046",
+      "name": "钱  余额",
+      "font_class": "qianyue",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "15495478",
+      "name": "充值 Leo",
+      "font_class": "chongzhi-01",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "17739985",
+      "name": "SIM卡管理空心",
+      "font_class": "z_nav_icon_SIM_nor",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
